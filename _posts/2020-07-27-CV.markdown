@@ -1,0 +1,63 @@
+---
+layout: post
+title:  "CV"
+date:   2020-07-27 00:00:31 +0300
+categories: jekyll update
+---
+# Beytullah Demirci
+
+- https://github.com/MrDmrc.github.io
+- https://www.linkedin.com/in/beytullah-d-966444137/
+- https://github.com/MrDmrc
+- Rize/İstanbul
+- +905533604253
+
+
+**Education:**
+- Handan Hayrettin Yelkikanat Vocational and Technical Anatolian High School(2013-2017)
+- Istanbul Commerce University Electrical-Electronics Engineering (2017-2022)
+
+**Technical Skills:**
+
+- C Programming Language
+- Embedded System Design
+- GNU Linux
+- Python
+- Arduino programing
+- Electronic Simulation Programs
+- PLC (ABB/Siemens/Schneider)
+- Logic Circuits
+
+**Social Skills:**
+
+- Cycling
+- Camping
+- fishing
+- Trekking
+
+**Employment:**
+
+- Asp Automation san. ve tic. ltd. şti.(06.2016-08.2016)
+- Prestij Gıda / Buffet Element (11.2017-05.2019)
+- Inditex Pull And Bear / Sales Consultant (05.2019-Present)
+
+**Languages:**
+
+- Turkish (Native Language)
+- English
+
+**Technical Interests:**
+
+- Scientific Calculation Algorithms
+- Neural Networks
+- Artificial Intelligence
+- Microprocessor Design
+- Hardware Drivers For Embedded Systems
+- Operating System Development, and so much more...
+
+**Personal Information:**
+
+- Age: 21
+- Driver License: B
+- Place Of Birth: Rize
+- Place of Residence: Istanbul Maltepe
