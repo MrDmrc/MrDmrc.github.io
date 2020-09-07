@@ -56,7 +56,7 @@ webmaster_verifications:
   #google: 1234
   #bing: 1234
   #alexa: 1234
-#  yandex: 
+#  yandex:
   #baidu: 1234
 # Build settings
 theme: minima
