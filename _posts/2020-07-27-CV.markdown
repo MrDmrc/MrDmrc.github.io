@@ -14,19 +14,21 @@ categories: jekyll update
 
 
 **Education:**
+
 - Handan Hayrettin Yelkikanat Vocational and Technical Anatolian High School(2013-2017)
 - Istanbul Commerce University Electrical-Electronics Engineering (2017-2022)
 
 **Technical Skills:**
 
-- C Programming Language
+- C Programming Language (Intermediate)
 - Embedded System Design
 - GNU Linux
-- Python
-- Arduino programing
+- Python (Beginner)
+- Arduino programing (Intermediate)
 - Electronic Simulation Programs
-- PLC (ABB/Siemens/Schneider)
+- PLC (ABB/Siemens/Schneider) (Expert)
 - Logic Circuits
+- JavaScript(Beginner)
 
 **Social Skills:**
 
@@ -39,7 +41,8 @@ categories: jekyll update
 
 - Asp Automation san. ve tic. ltd. şti.(06.2016-08.2016)
 - Prestij Gıda / Buffet Element (11.2017-05.2019)
-- Inditex Pull And Bear / Sales Consultant (05.2019-Present)
+- Inditex Pull And Bear / Sales Consultant (05.2019-11.2020)
+- Inditex Zara Home / Sales Consultant (11.2020-present)
 
 **Languages:**
 
